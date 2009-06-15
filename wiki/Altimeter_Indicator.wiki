@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = Altimeter Indicator =
 
 An altimeter is an instrument used to measure the altitude of an object above a fixed level. The measurement of altitude is called altimetry, which is related to the term bathymetry, the measurement of depth underwater.

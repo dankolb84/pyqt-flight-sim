@@ -6,7 +6,7 @@
  * Instruments - http://en.wikipedia.org/wiki/Flight_instruments
 
 === Instruments ===
- * [Altimiter_Indicator] 
+ * [Altimeter_Indicator] 
  * [Attitude_Indicator] 
  * [Airspeed_Indicator] 
  * [Compass_Indicator]

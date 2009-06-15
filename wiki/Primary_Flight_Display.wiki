@@ -6,8 +6,13 @@
  * Instruments - http://en.wikipedia.org/wiki/Flight_instruments
 
 === Instruments ===
- * [Attitude_Indicator] - http://en.wikipedia.org/wiki/Attitude_indicator
- * [Airspeed_Indicator] - http://en.wikipedia.org/wiki/Attitude_indicator
+ * [Altimiter_Indicator] 
+ * [Attitude_Indicator] 
+ * [Airspeed_Indicator] 
+ * [Compass_Indicator]
+ * [Heading_Indicator]
+ * [Turn_Bank_Indicator]
+ * [Vertical_Speed_Indicator]
 
 == Traditional "T" Panel ==
 http://upload.wikimedia.org/wikipedia/en/thumb/0/07/Six_flight_instruments.JPG/250px-Six_flight_instruments.JPG
